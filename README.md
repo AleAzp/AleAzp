@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleAzp
 - 👀 I’m interested in UI and animation
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on UX/UI proyects
 - 📫 How to reach me aleazpurua@gmail.com
 - ⚡ Fun fact: am looking for a new role
