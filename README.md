@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AleAzp
-- 👀 I’m interested in UI and animation
+- 👀  I’m a Junior Frontend Developer with a background in design.
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on UX/UI proyects
+- 💞️ I’m looking to collaborate on Frontend and UI proyects
 - 📫 How to reach me aleazpurua@gmail.com
 - ⚡ Fun fact: am looking for a new role
 
